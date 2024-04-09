@@ -1,0 +1,20 @@
+﻿@model List<Proyecto>
+
+@foreach (var proyecto in Model)
+{
+    <div class="col">
+        <div class="card h-100 contenedor-proyecto">
+            <img src="@proyecto.Imagen" class="card-img-top imagen-proyecto" alt="@proyecto.Titulo">
+
+            <div class="card-body">
+                <h3 class="card-title">@proyecto.Titulo</h3>
+                <p class="card-text">@proyecto.Descripcion</p>
+
+            </div>
+
+            <div class="card-footer">
+                <a href="@proyecto.Url" class="btn btn-primary w-100" target="_blank" rel="noopener noreferrer">Ver Proyecto</a>
+            </div>
+        </div>
+    </div>
+}

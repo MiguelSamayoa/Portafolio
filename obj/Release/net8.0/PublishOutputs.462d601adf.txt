@@ -1,0 +1,7 @@
+C:\Users\SAMAYOA\Documents\Portafolio\bin\Release\net8.0\publish\Portafolio.exe
+C:\Users\SAMAYOA\Documents\Portafolio\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\SAMAYOA\Documents\Portafolio\bin\Release\net8.0\publish\appsettings.json
+C:\Users\SAMAYOA\Documents\Portafolio\bin\Release\net8.0\publish\Portafolio.dll
+C:\Users\SAMAYOA\Documents\Portafolio\bin\Release\net8.0\publish\Portafolio.deps.json
+C:\Users\SAMAYOA\Documents\Portafolio\bin\Release\net8.0\publish\Portafolio.runtimeconfig.json
+C:\Users\SAMAYOA\Documents\Portafolio\bin\Release\net8.0\publish\Portafolio.pdb
