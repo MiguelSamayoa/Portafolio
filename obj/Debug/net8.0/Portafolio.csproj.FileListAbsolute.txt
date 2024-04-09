@@ -28,4 +28,7 @@ C:\Users\SAMAYOA\Documents\Portafolio\obj\Debug\net8.0\refint\Portafolio.dll
 C:\Users\SAMAYOA\Documents\Portafolio\obj\Debug\net8.0\Portafolio.pdb
 C:\Users\SAMAYOA\Documents\Portafolio\obj\Debug\net8.0\Portafolio.genruntimeconfig.cache
 C:\Users\SAMAYOA\Documents\Portafolio\obj\Debug\net8.0\ref\Portafolio.dll
+<<<<<<< HEAD
 C:\Users\SAMAYOA\Documents\Portafolio\obj\Debug\net8.0\Portafolio.sourcelink.json
+=======
+>>>>>>> be6af610162624a3832c17bb3c57af0f674615bc
